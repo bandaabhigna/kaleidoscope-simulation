@@ -1,5 +1,5 @@
 # zense_project
-kaleidoscope simulation
+zense project
 INSTRUCTIONS ON HOW TO RUN RUN THE CODE:
 
 Firstly install the mathplotlib library in your ubuntu system.
